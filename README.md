@@ -10,14 +10,14 @@ The post image is generated in 3 steps.
 
 The generator use the facebook segment anything model to infer the segmentation task; Use stable diffusion 2--inpainting to generator the background image; Use grids like the rule of thirds to find where to add texts in the generated image.
 
-Tab image segmentation:
+## Tab image segmentation:
 ![Tab1.1](Tab1_1.JPG)
 ![Tab1.2](Tab1_2.JPG)
 
-Tab image generation:
+## Tab image generation:
 ![Tab1.1](Tab2.JPG)
 
-Tab adding text:
+## Tab adding text:
 ![Tab1.1](Tab3.JPG)
 
 Note: 
