@@ -12,7 +12,7 @@ The generator use the facebook segment anything model to infer the segmentation 
 
 Tab image segmentation:
 ![Tab1.1](Tab1_1.JPG)
-![Tab1.2](Tab1_1.JPG)
+![Tab1.2](Tab1_2.JPG)
 
 Tab image generation:
 ![Tab1.1](Tab2.JPG)
