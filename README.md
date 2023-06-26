@@ -17,10 +17,10 @@ The generator use the facebook segment anything model to infer the segmentation 
 ## Tab image generation:
 ![Tab1.1](Tab2.JPG)
 
-## Tab adding text:
+## Tab adding texts:
 ![Tab1.1](Tab3.JPG)
 
-Note: 
+## Note: 
 
   The prompt for image generation supports English and Chinese. To support more languages, just change the dropdown function in the web interface, eg "src_language = gr.Dropdown(choices=lang_codes, default='English', label='Prompt language')".
   
